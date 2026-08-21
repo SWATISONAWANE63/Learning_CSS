@@ -1,27 +1,66 @@
-.t_transform_uppercase{
+* {
+    font-style: italic;
+}
+
+
+.t_transform_uppercase {
     text-transform: uppercase;
-   
+
 }
-.t_transform_lowercase{
+
+.t_transform_lowercase {
     text-transform: lowercase;
-    
+
 }
-.t_transform_capitilize{
+
+.t_transform_capitilize {
     text-transform: capitalize;
-   
-    
+
+
 }
-.t_decoration_underline{
+
+.t_decoration_underline {
     text-decoration: underline;
-    
+
 }
-.t_decoration_overline{
+
+.t_decoration_overline {
     text-decoration: overline;
 }
-.t_decoration_linethrought{
+
+.t_decoration_linethrought {
     text-decoration: line-through;
 }
-.t_decoration_all{
-    text-decoration: line-through  overline underline;
-    
+
+.t_decoration_all {
+    text-decoration: line-through overline underline;
+
+}
+
+.t_text_align_l {
+    text-align: left;
+}
+
+.t_text_align_c {
+    text-align: center;
+}
+
+.t_text_align_r {
+    text-align: right;
+}
+
+.t_text_shadow_h {
+    text-shadow: 12px 0px 0px rgb(245, 7, 47);
+}
+
+.t_text_shadow_v {
+    text-shadow: 0px 13px 0px rgb(245, 7, 47);
+}
+/.
+.t_text_shadow_b {
+    text-shadow: 0px 0px 3px rgb(245, 7, 47);
+}
+
+.t_text_shadow_all {
+    text-shadow: 12px 3px 3px rgb(245, 7, 47);
 }
