@@ -1,0 +1,27 @@
+.t_transform_uppercase{
+    text-transform: uppercase;
+   
+}
+.t_transform_lowercase{
+    text-transform: lowercase;
+    
+}
+.t_transform_capitilize{
+    text-transform: capitalize;
+   
+    
+}
+.t_decoration_underline{
+    text-decoration: underline;
+    
+}
+.t_decoration_overline{
+    text-decoration: overline;
+}
+.t_decoration_linethrought{
+    text-decoration: line-through;
+}
+.t_decoration_all{
+    text-decoration: line-through  overline underline;
+    
+}
