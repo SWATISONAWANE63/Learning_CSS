@@ -56,11 +56,26 @@
 .t_text_shadow_v {
     text-shadow: 0px 13px 0px rgb(245, 7, 47);
 }
-/.
-.t_text_shadow_b {
+
+/. .t_text_shadow_b {
     text-shadow: 0px 0px 3px rgb(245, 7, 47);
 }
 
 .t_text_shadow_all {
     text-shadow: 12px 3px 3px rgb(245, 7, 47);
+}
+
+.t_indent {
+    text-indent: 130px;
+}
+
+.t_word_spacing {
+    word-spacing: 120px;
+}
+
+.t_letter_spacing {
+    letter-spacing: 20px;
+}
+.t_line_height{
+    line-height: 80px;
 }

@@ -1,0 +1,14 @@
+
+.img1{
+    box-shadow: 15px 15px 8px rgb(131, 67, 102);
+}
+.img2{
+    box-shadow: 20px 20px 20px rgb(238, 5, 17);
+    width: 370px;
+}
+.drop_shadow{
+    width: 400px;
+    filter: drop-shadow(16px 6px 10px rgb(8, 8, 8));
+}
+
+ rgb(237, 6, 45)

@@ -1,0 +1,18 @@
+.b_property_solid{
+    border: 5px solid navy;
+}
+.b_property_dotted{
+    border: 5px dotted navy;
+}
+.b_property_dashed{
+    border: 5px dashed navy;
+}
+.b_property_inset{
+    border: 5px inset navy;
+}
+.b_property_outset{
+    border: 5px outset navy;
+}
+.b_property_groove{
+    border: 15px groove navy;
+}
