@@ -1,0 +1,36 @@
+.linear {
+    height: 400px;
+    background: linear-gradient(red, pink, orange);
+}
+
+.bg_heading {
+    margin-top: 50px;
+    color: black;
+    text-align: center;
+    padding-top: 140px;
+    font-size: 40px;
+}
+
+.box {
+    margin: 20px;
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    background-color: radi;
+}
+
+.circle {
+    height: 600px;
+    background: radial-gradient(circle, orange, pink, purple);
+}
+
+.ellipse {
+
+    height: 600px;
+    background: radial-gradient(ellipse, #46466E, #BDBDD7, #DD105E);
+}
+
+.conic {
+    height: 500px;
+    background: conic-gradient(from 90deg, red, yellow, green, blue);
+}

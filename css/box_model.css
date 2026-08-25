@@ -1,0 +1,17 @@
+.box_model1 {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+
+.box_model2 {
+    border: 13px double palevioletred;
+    padding: 20px 50px 20px 30px;
+    margin: 40px 100px 34px 56px;
+}
+
+.box_model_img {
+    margin: 0px;
+    padding: 0px;
+    
+}
