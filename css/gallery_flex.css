@@ -1,0 +1,21 @@
+.flex-items{
+    list-style: none;
+    height: 150px;
+    width: 150px;
+    /* padding: 10px; */
+    margin: 10px;
+    background-color: aqua;
+    border: 2px solid black;
+    
+    
+}
+.flex-container{
+    /* display: flex;
+    justify-content: center; */
+    /* flex-direction: row; */
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: row; */
+    /* flex-direction: column; */
+    justify-content: center;
+}

@@ -1,0 +1,25 @@
+.flex-items{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+    height: 150px;
+    width: 200px;
+    margin-top: 10px;
+    color: wheat;
+    font-size: 50px;
+    border: 3px solid black;
+    border-radius: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* flex-direction: column; */
+    justify-content: center;
+}

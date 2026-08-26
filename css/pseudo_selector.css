@@ -1,0 +1,27 @@
+h1:hover{
+    color: aqua;
+    background-color: black;
+    border-radius: 5px;
+}
+
+p:hover{
+    background-color: blueviolet;
+    border: 2px  solid black;
+    margin: 20px;
+    padding: 20px;
+}
+h2:active{
+    color: brown;
+    border-color: hotpink;
+    font-style: 20px;
+    background-color: aqua;
+}
+
+a:visited{
+    color: crimson;
+}
+input:focus{
+    background-color: yellowgreen;
+    border: 2px solid black;
+    color: aqua;
+}
